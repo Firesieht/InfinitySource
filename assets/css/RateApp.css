@@ -21,7 +21,7 @@ body::-webkit-scrollbar{
 }
 
 .Logo {
-    width: 15%;
+    width: 35%;
     margin-top: 3%;
     margin-left: 5%;
 }
@@ -71,3 +71,21 @@ body::-webkit-scrollbar{
 .col-sm-8 {
     padding: 0;
 }
+
+.h1_contacts{
+    padding: 5%;
+    color: #30303A;
+    font-weight: bolder;
+}
+
+.none_button{
+    border: none;
+    background-color: transparent;
+}
+
+.h2_subtyle{
+    padding: 0%;
+    padding-left: 5%;
+    color: #30303A;
+}
+
